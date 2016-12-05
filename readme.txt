@@ -13,7 +13,9 @@ A starter theme called Narnoo Corp Accom, or underscores.
 
 == Description ==
 
-Hi. I'm a starter theme called Narnoo Corp Accom, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Hi. I'm one of Narnoo's WordPress themes. My job is to make a starter website for Accommodation operators. This theme is targeted more towards the Corporate style operator.
+
+We have built this theme ontop of _S or underscores. Please feel free to hack it and use it for your own purposes.
 
 == Installation ==
 
@@ -26,6 +28,7 @@ Hi. I'm a starter theme called Narnoo Corp Accom, or underscores, if you like. I
 = Does this theme support any plugins? =
 
 Narnoo Corp Accom includes support for Infinite Scroll in Jetpack.
+Narnoo Corp Accom includes support for Narnoo Operator API
 
 == Changelog ==
 
